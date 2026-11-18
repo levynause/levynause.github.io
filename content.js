@@ -73,28 +73,28 @@ const SITE = {
     {
       title: "Electret Wideband Measurement Microphone ", type: "analog audio / 2-layer PCB", tools: "KiCad", year: "2025",
       about: "This microphone was designed to run on studio phantom power with the Panasonic WM-61A electret capsule. The capsule enables it to measure at frequencies up to 70kHz for sound design purposes with an extremley flat frequency response. The internal circutry cleanly shunts phantom voltage to act as a line level injector, with clean RF protected outputs. ",
-      images: ["pcb/Mic render.jpg", "pcb/Mic traces.jpg", "pcb/Mic schematic.jpg"],
+      images: ["pcb/Mic render.JPG", "pcb/Mic traces.JPG", "pcb/Mic schematic.JPG"],
     },
     {
       title: "API 500 Mic Pre (In Progress)", type: "analog audio / 2-layer PCB", tools: "KiCad", year: "2026",
       about: " Studio mic preamp built on the API 500 standard utilizing a LL1587 Microphone transformer on the front end with a high-headroom descrete transistor gain stage. It features 48V Phantom power, an input pad, and a dedicated high-impedance JFET buffer designed specifically for acoustic piezo pickups. ",
-      images: ["pcb/API pre.jpg"],
+      images: ["pcb/API pre.JPG"],
     },
 
     {
       title: "Eurorack Power Supply", type: "analog audio / 2-layer PCB", tools: "KiCad", year: "2025",
       about: " A simple clean 15V input power supply designed for eurorack modular synths with Two 12V Rails. Focuses on bulk filtering through 4700µF bulk electrolytic capacitors and voltage regulation through each rail, using LM317 and LM337 respectivley.",
-      images: ["pcb/eurorack power.jpg", "pcb/eurorack schematic.jpg"],
+      images: ["pcb/eurorack power.JPG", "pcb/eurorack schematic.JPG"],
     }
   ],
 
   // GALLERY (concert photos): put JPGs in photos/ (export RAW files such as .rw2 to JPG first; browsers cannot show RAW). caption shows in the full-size viewer.
   photos: [
     { src: "photos/IMG_2388.jpg", caption: "Fire Station Studios, SSL Duality Delta, 2024" },
-    { src: "photos/P1055533.jpg", caption: "Come and Take it Live, Hammerflesh Performance, 2024" },
+    { src: "photos/P1055533.JPG", caption: "Come and Take it Live, Hammerflesh Performance, 2024" },
     { src: "photos/IMG_2381.jpg", caption: "Fire Station Studios, Studio A" },
-    { src: "photos/IMG_1800.jpg", caption: "San Marcos, TX, Hammerflesh Performance, 2025" },
-    { src: "photos/IMG_1742.jpg", caption: "Inside The Hollow, Come and Take It Live, 2025" },
+    { src: "photos/IMG_1800.JPG", caption: "San Marcos, TX, Hammerflesh Performance, 2025" },
+    { src: "photos/IMG_1742.JPG", caption: "Inside The Hollow, Come and Take It Live, 2025" },
   ],
 
   // ABOUT: portrait is optional (delete the line to hide it).

@@ -39,10 +39,10 @@ const SITE = {
   // Bandcamp / SoundCloud / Spotify / YouTube "Embed" code). Optional h: height in px.
   music: [
     { title: "Loafed Up Timmy - Activate!!! Full EP", role: "Recording Engineer + Mixing Engineer + Mastering Engineer + Studio Producer", embed: "https://open.spotify.com/embed/album/7Fs4NXTa3Ami0i10cxvt2I?utm_source=generator&si=ee088dd59890484d", h: 352 },
-    { title: "There's the Sun, Where have You Been - Loafed Up Timmy", role: "Recording Engineer + Mixing Engineer + Mastering Engineer + Studio Producer", year: "2026", file: "audio/There's the Sun, Where have You Been - Loafed Up Timmy.mp3", cover: "covers/Loafedupcoverart.jpg" },
+    { title: "There's the Sun, Where have You Been - Loafed Up Timmy", role: "Recording Engineer + Mixing Engineer + Mastering Engineer + Studio Producer", year: "2026", file: "audio/There's the Sun, Where have You Been - Loafed Up Timmy.mp3", cover: "covers/Loafedupcoverart.JPG" },
     { title: "The Cypress Jazz Quartet", role: "Assistant Recording Engineer + Mixing Engineer + Producer", year: "2026", file: "audio/LN_C4.mp3",  },
     { title: "Piano Improvisational Piece - Evan Foor", role: "Assistant Recording Engineer + Mixing Engineer + Producer", year: "2026", file: "audio/EFPiano.mp3",  },
-    { title: "Chainsaw Through Your Skull - Hammerflesh", role: "Writer - Bass", year: "2025", file: "audio/Chainsaw Through Your Skull.mp3", cover: "covers/hammerflesh.jpg"  },
+    { title: "Chainsaw Through Your Skull - Hammerflesh", role: "Writer - Bass", year: "2025", file: "audio/Chainsaw Through Your Skull.mp3", cover: "covers/hammerflesh.JPG"  },
     { title: "Mozart - Oboe Concerto in C major Movement I", role: "Assistant Engineer", year: "2026", file: "audio/192kbsLN COMPConcerto Recording MVMT 1.mp3",  },
   ],
 
